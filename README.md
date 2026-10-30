@@ -4,9 +4,9 @@ Personal site. Plain HTML and CSS, no build step.
 
 ## Edit
 
-- `index.html`: content. Placeholders are in `[square brackets]`; search for `[` to find them.
+- `index.html`: content. Plain HTML; edit the text directly.
 - `style.css`: look.
-- Add `resume.pdf` to this folder to make the Résumé link work.
+
 
 Preview locally:
 
